@@ -8,4 +8,4 @@
 
 # Run
 ## Run without building
-``` go run your_program.go ```
+```$ go run your_program.go ```
